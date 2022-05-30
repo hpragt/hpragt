@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:hpragt_at_infodation.nl?subject=Ask%20mek%20anything)
+
 <!--
 **hpragt/hpragt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
